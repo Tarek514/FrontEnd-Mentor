@@ -60,6 +60,6 @@ In each folder, you'll find a README with details on how I approached the challe
 
 ## Author
 
-- Website - [Your Portfolio](https://your-portfolio-url.com)
-- GitHub - [@YourUsername](https://github.com/YourUsername)
-- LinkedIn - [Your Name](https://www.linkedin.com/in/your-linkedin/)
+- Website - [Tarek Hossain Portfolio](https://my-portfolio-kappa-two-32.vercel.app/)
+- Frontend Mentor - [@Tarek514](https://www.frontendmentor.io/profile/Tarek514)
+- LinkedIn - [@Tarek Hossain](https://www.linkedin.com/in/tarek-hossain-95b573254/)
