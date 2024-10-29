@@ -18,7 +18,7 @@ This repository contains solutions to various [FrontEnd Mentor](https://www.fron
 
    - Description of what the challenge entails and the goals to achieve.
 
-2. **[Challenge 2 Title](link-to-challenge)**
+2. **[Blog preview card](https://tarek514.github.io/Frontend-Mentor-Challenge-2/)**
 
    - Brief overview of the challenge requirements.
 
@@ -56,7 +56,7 @@ In each folder, you'll find a README with details on how I approached the challe
 
 - HTML5
 - CSS3
-- JavaScript (or any other technologies you used)
+- JavaScript
 
 ## Author
 
