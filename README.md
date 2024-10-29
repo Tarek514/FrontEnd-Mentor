@@ -14,7 +14,7 @@ This repository contains solutions to various [FrontEnd Mentor](https://www.fron
 
 ### Challenges
 
-1. **[Challenge 1 Title](link-to-challenge)**
+1. **[QR Code Component](https://tarek514.github.io/Frontend-Mentor-Challenge-1/)**
 
    - Description of what the challenge entails and the goals to achieve.
 
