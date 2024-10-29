@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap"
+    />
+
+    <title>Frontend Mentor | QR code component</title>
+
+    <style>
+      body {
+        font-family: "Outfit";
+        background-color: #f9f9f9;
+      }
+      .attribution {
+        font-size: 11px;
+        text-align: center;
+      }
+      .attribution a {
+        color: hsl(228, 45%, 44%);
+      }
+
+      #outsideBox {
+        height: 500px;
+        width: 80%;
+        background-color: #d6e1f0;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+        margin: 40px auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      #insideBox {
+        height: 350px;
+        width: 220px;
+        background-color: white;
+        justify-content: center;
+        align-items: center;
+        border-radius: 10px;
+        padding: 20px;
+        text-align: center;
+      }
+
+      #qrBox {
+        margin: 10px;
+      }
+
+      #qrBox img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 10px;
+      }
+
+      #topText {
+        font-weight: bolder;
+        font-size: 700;
+      }
+
+      #bottomText {
+        opacity: 0.7;
+        font-size: 400;
+      }
+
+      @media (max-width: 375px) {
+        #outsideBox {
+          width: 90%;
+          margin: 20px auto;
+        }
+
+        #insideBox {
+          width: 100%;
+          padding: 10px;
+        }
+
+        #topText {
+          font-size: 20px;
+        }
+      }
+
+      @media (min-width: 1440px) {
+        #outsideBox {
+          width: 60%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="outsideBox">
+      <div id="insideBox">
+        <div id="qrBox">
+          <img src="images/image-qr-code.png" width="200" height="200" />
+        </div>
+        <p id="topText">Improve your front-end skills by building projects</p>
+        <p id="bottomText">
+          Scan the QR code to visit Frontend Mentor and take your coding skills
+          to the next level
+        </p>
+
+        <div class="attribution">
+          Challenge by
+          <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+            >Frontend Mentor</a
+          >
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
