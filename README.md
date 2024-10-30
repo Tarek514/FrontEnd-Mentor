@@ -2,7 +2,7 @@
 
 This repository contains solutions to various [FrontEnd Mentor](https://www.frontendmentor.io/home) challenges I've completed across different topics. Each folder holds a unique challenge that helps improve my FrontEnd Web Development skills by tackling different projects.
 
-## Table of Contents
+## Table of Contents Start from challenge 3
 
 - [Overview](#overview)
   - [Challenges](#challenges)
@@ -16,17 +16,11 @@ This repository contains solutions to various [FrontEnd Mentor](https://www.fron
 
 1. **[QR Code Component](https://tarek514.github.io/Frontend-Mentor-Challenge-1/)**
 
-   - Description of what the challenge entails and the goals to achieve.
+2. **[Blog Preview Card](https://tarek514.github.io/Frontend-Mentor-Challenge-2/)**
 
-2. **[Blog preview card](https://tarek514.github.io/Frontend-Mentor-Challenge-2/)**
+3. **[Social Links Profile](https://tarek514.github.io/Frontend-Mentor-Challenge-3/)**
 
-   - Brief overview of the challenge requirements.
-
-3. **[Challenge 3 Title](link-to-challenge)**
-   - Summary of the challenge and what skills it helps develop.
-4. **[Challenge 1 Title](link-to-challenge)**
-
-   - Description of what the challenge entails and the goals to achieve.
+4. **[Recipe Page](https://tarek514.github.io/Frontend-Mentor-Challenge-4/)**
 
 5. **[Challenge 2 Title](link-to-challenge)**
 
