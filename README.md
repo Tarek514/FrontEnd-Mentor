@@ -22,9 +22,7 @@ This repository contains solutions to various [FrontEnd Mentor](https://www.fron
 
 4. **[Recipe Page](https://tarek514.github.io/Frontend-Mentor-Challenge-4/)**
 
-5. **[Challenge 2 Title](link-to-challenge)**
-
-   - Brief overview of the challenge requirements.
+5. **[Product Preview Card Component](https://tarek514.github.io/Frontend-Mentor-Challenge-5/)**
 
 6. **[Challenge 3 Title](link-to-challenge)**
    - Summary of the challenge and what skills it helps develop.
