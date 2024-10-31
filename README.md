@@ -24,8 +24,8 @@ This repository contains solutions to various [FrontEnd Mentor](https://www.fron
 
 5. **[Product Preview Card Component](https://tarek514.github.io/Frontend-Mentor-Challenge-5/)**
 
-6. **[Challenge 3 Title](link-to-challenge)**
-   - Summary of the challenge and what skills it helps develop.
+6. **[Four Card Feature Section](https://tarek514.github.io/Frontend-Mentor-Challenge-6/)**
+
 7. **[Challenge 1 Title](link-to-challenge)**
 
    - Description of what the challenge entails and the goals to achieve.
