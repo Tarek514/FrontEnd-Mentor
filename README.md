@@ -28,9 +28,7 @@ This repository contains solutions to various [FrontEnd Mentor](https://www.fron
 
 7. **[Testimonials Grid Section](https://tarek514.github.io/Frontend-Mentor-Challenge-7/)**
 
-8. **[Challenge 2 Title](link-to-challenge)**
-
-   - Brief overview of the challenge requirements.
+8. **[Article Preview Component](https://tarek514.github.io/Frontend-Mentor-Challenge-8/)**
 
 9. **[Challenge 3 Title](link-to-challenge)**
    - Summary of the challenge and what skills it helps develop.
