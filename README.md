@@ -26,9 +26,7 @@ This repository contains solutions to various [FrontEnd Mentor](https://www.fron
 
 6. **[Four Card Feature Section](https://tarek514.github.io/Frontend-Mentor-Challenge-6/)**
 
-7. **[Challenge 1 Title](link-to-challenge)**
-
-   - Description of what the challenge entails and the goals to achieve.
+7. **[Testimonials Grid Section](https://tarek514.github.io/Frontend-Mentor-Challenge-7/)**
 
 8. **[Challenge 2 Title](link-to-challenge)**
 
