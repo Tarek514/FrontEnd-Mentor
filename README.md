@@ -30,11 +30,9 @@ This repository contains solutions to various [FrontEnd Mentor](https://www.fron
 
 8. **[Article Preview Component](https://tarek514.github.io/Frontend-Mentor-Challenge-8/)**
 
-9. **[Challenge 3 Title](link-to-challenge)**
-   - Summary of the challenge and what skills it helps develop.
-10. **[Challenge 3 Title](link-to-challenge)**
+9. **[NFT Preview Card Component](https://tarek514.github.io/Frontend-Mentor-Challenge-9/)**
 
-- Summary of the challenge and what skills it helps develop.
+10. **[Challenge 3 Title](link-to-challenge)**
 
 ## My Process
 
