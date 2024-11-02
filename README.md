@@ -1,4 +1,4 @@
-# Challenge Repository
+# FrontEnd Mentor Challenges
 
 This repository contains solutions to various [FrontEnd Mentor](https://www.frontendmentor.io/home) challenges I've completed across different topics. Each folder holds a unique challenge that helps improve my FrontEnd Web Development skills by tackling different projects.
 
@@ -32,7 +32,7 @@ This repository contains solutions to various [FrontEnd Mentor](https://www.fron
 
 9. **[NFT Preview Card Component](https://tarek514.github.io/Frontend-Mentor-Challenge-9/)**
 
-10. **[Challenge 3 Title](link-to-challenge)**
+10. **[FAQ accordion](https://tarek514.github.io/Frontend-Mentor-Challenge-10/)**
 
 ## My Process
 
