@@ -34,6 +34,8 @@ This repository contains solutions to various [FrontEnd Mentor](https://www.fron
 
 10. **[FAQ accordion](https://tarek514.github.io/Frontend-Mentor-Challenge-10/)**
 
+11. **[Newsletter Sign-Up Form](https://tarek514.github.io/Frontend-Mentor-Challenge-11/)**
+
 ## My Process
 
 In each folder, you'll find a README with details on how I approached the challenge, the problems I faced, and how I solved them.
