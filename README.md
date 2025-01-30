@@ -2,7 +2,7 @@
 
 This repository contains solutions to various [FrontEnd Mentor](https://www.frontendmentor.io/home) challenges I've completed across different topics. Each folder holds a unique challenge that helps improve my FrontEnd Web Development skills by tackling different projects.
 
-## Table of Contents Start from challenge 3
+## Table of Contents 
 
 - [Overview](#overview)
   - [Challenges](#challenges)
