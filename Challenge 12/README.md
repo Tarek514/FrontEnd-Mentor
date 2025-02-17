@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://tarek514.github.io/Frontend-Mentor-Challenge-12/)
 
 ## My process
 
@@ -41,6 +41,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Tarek Hossain Portfolio](https://my-portfolio-kappa-two-32.vercel.app/)
+- Website - [Tarek Hossain Portfolio](https://tarek-hossain.netlify.app/)
 - Frontend Mentor - [@Tarek514](https://www.frontendmentor.io/profile/Tarek514)
 - LinkedIn - [@Tarek Hossain](https://www.linkedin.com/in/tarek-hossain-95b573254/)
