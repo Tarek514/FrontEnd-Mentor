@@ -46,6 +46,7 @@ In each folder, you'll find a README with details on how I approached the challe
 
 - HTML5
 - CSS3
+    - Tailwind CSS
 - JavaScript
 
 ## Author
